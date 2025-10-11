@@ -488,7 +488,7 @@
         "editor.document_highlight.bracket_background": "#14141411",
         "editor.document_highlight.read_background": "#14141411",
         "editor.document_highlight.write_background": "#1414141e",
-        "editor.foreground": "#383838",
+        "editor.foreground": "#B4B4B4",
         "editor.gutter.background": "#181818",
         "editor.highlighted_line.background": "#ededed",
         "editor.indent_guide": "#2F2F2D",
@@ -874,9 +874,9 @@
         "terminal.ansi.yellow": "#a16900",
 
         "terminal.background": "#161616",
-        "terminal.bright_foreground": "#6C6C6C",
-        "terminal.dim_foreground": "#6C6C6C",
-        "terminal.foreground": "#6C6C6C",
+        "terminal.bright_foreground": "#252525",
+        "terminal.dim_foreground": "#252525",
+        "terminal.foreground": "#454545",
 
         "text": "#6C6C6C",
         "text.accent": "#3c7cab",

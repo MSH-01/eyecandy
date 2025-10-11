@@ -1,0 +1,7 @@
+id = "eyecandy"
+name = "Eyecandy Theme"
+version = "0.0.1"
+schema_version = 2
+authors = ["MSH-01"]
+description = "This theme is beauty, taste and old money."
+repository = "https://github.com/msh-01/eyecandy"

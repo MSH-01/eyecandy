@@ -530,9 +530,7 @@
         "icon.muted": "#141414ad",
         "icon.placeholder": "#141414ad",
 
-        "ignored": "#1414147a",
-        "ignored.background": "#1414141a",
-        "ignored.border": "#14141413",
+        "ignored": "#ffffff30",
 
         "info": "#206595",
         "info.background": "#2065951a",

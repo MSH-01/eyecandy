@@ -1,0 +1,25 @@
+# Eyecandy Light for Rex (Ghostty theme format)
+# Import: Rex Settings > Theme > Import Theme File
+
+palette = 0=#262626
+palette = 1=#cf2d56
+palette = 2=#1f8a65
+palette = 3=#a16900
+palette = 4=#3c7cab
+palette = 5=#b8448b
+palette = 6=#4c7f8c
+palette = 7=#a5a5a5
+palette = 8=#8d8d8d
+palette = 9=#e75e78
+palette = 10=#55a583
+palette = 11=#c08532
+palette = 12=#6299c3
+palette = 13=#d06ba6
+palette = 14=#6f9ba6
+palette = 15=#d6d6d6
+background = #fcfcfc
+foreground = #262626
+cursor-color = #3c7cab
+cursor-text = #fcfcfc
+selection-background = #cedde9
+selection-foreground = #262626

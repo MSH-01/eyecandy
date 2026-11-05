@@ -18,6 +18,24 @@ This theme is beauty, taste and old money.
 2. Click `Install`
 3. Select the **Eyecandy** theme in the Zed editor.
 
+### Neovim
+
+With [lazy.nvim](https://github.com/folke/lazy.nvim):
+
+```lua
+{
+  "MSH-01/eyecandy",
+  lazy = false,
+  priority = 1000,
+  config = function()
+    vim.o.termguicolors = true
+    vim.cmd.colorscheme("eyecandy")
+  end,
+}
+```
+
+It follows `'background'`, so `:set background=light` switches to the light variant. Leave `'background'` unset and Neovim picks it up from your terminal.
+
 ## Contribution
 
 If you have any suggestions or issues regarding this theme, feel free to submit an issue or pull request on GitHub.
